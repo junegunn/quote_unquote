@@ -1,5 +1,5 @@
 # quote_unquote
-Wraps strings with quotes.
+Wraps (and unwraps) strings with quotes.
 
 ## Installation
 

@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = QuoteUnquote::VERSION
   s.authors     = ["Junegunn Choi"]
   s.email       = ["junegunn.c@gmail.com"]
-  s.homepage    = "http://github.com/junegunn/quote_unquote"
+  s.homepage    = "https://github.com/junegunn/quote_unquote"
   s.summary     = %q{Wraps and unwraps strings with quotes}
   s.description = %q{Wraps and unwraps strings with quotes}
 
