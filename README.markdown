@@ -19,6 +19,17 @@ require 'quote_unquote'
 '"hello"'.uqq # hello
 ```
 
+"Is this a joke?"
+"Yup."
+
+## Slightly, just slightly more useful examples
+
+```ruby
+# Escapes the quotation marks
+"I'm good".q("''")            # 'I''m good'
+"I'm good".q("''").uq("''")   # I'm good
+```
+
 ## Copyright
 
 Copyright (c) 2011 Junegunn Choi. See LICENSE.txt for
